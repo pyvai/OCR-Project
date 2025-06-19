@@ -1,4 +1,5 @@
 📄 OCR Text Scanner | Streamlit + Tesseract 
+
 This project is a powerful Optical Character Recognition (OCR) web application built with Python, Streamlit, and Tesseract OCR. 
 It extracts printed text, digits, alphabets, and symbols from images, including low-quality and textured backgrounds.
 
